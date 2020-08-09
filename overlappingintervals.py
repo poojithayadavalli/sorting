@@ -1,5 +1,5 @@
 """
-Your is given as follows:
+Your task is given as follows:
 
 An interval is represented as a combination of start time and end time. Given a set of N intervals , check if any two intervals overlap.
 
